@@ -2,23 +2,23 @@ import { FaTiktok } from "react-icons/fa";
 
 const logotext = "FIDÈLE-LVDP";
 const meta = {
-    title: "Fidèle-LVDP | Location de Voitures pour Apprendre à Conduire à Paris",
-    description: "Fidèle-LVDP vous propose des véhicules adaptés pour passer votre permis de conduire à Paris. Location flexible et services personnalisés pour les candidats au permis.",
+    title: "Fidèle-LVDP | Location de Voitures pour Apprendre à Conduire à Viry-Châtillon (91-Essonnes)",
+    description: "Fidèle-LVDP vous propose des véhicules adaptés pour passer votre permis de conduire à Viry-Châtillon. Location flexible et services personnalisés pour les candidats au permis.",
 };
 
 const introdata = {
     title: "Bienvenue chez Fidèle-LVDP",
     animated: {
         first: "Apprenez à conduire avec nous",
-        second: "Réservez votre voiture pour le permis",
+        second: "Réservez votre voiture pour votre apprentissage",
     },
-    description: "Fidèle-LVDP, votre partenaire pour la location de voitures d'apprentissage à Paris. Nous mettons à votre disposition des véhicules sûrs et bien entretenus pour vous accompagner dans votre apprentissage de la conduite.",
+    description: "Fidèle-LVDP, votre partenaire pour la location de voitures d'apprentissage à Viry-Châtillon (91-Essonnes). Nous mettons à votre disposition des véhicules sûrs et bien entretenus pour vous accompagner dans votre apprentissage de la conduite.",
     your_img_url: "https://images.unsplash.com/photo-1591388156010-dd522151da35?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", 
 };
 
 const dataabout = {
     title: "À propos de Fidèle-LVDP",
-    aboutme: "Fidèle-LVDP est une société spécialisée dans la location de voitures pour l'apprentissage de la conduite à Paris. Nous mettons à votre disposition des véhicules pratiques et bien équipés pour que vous puissiez vous concentrer sur votre formation à la conduite.",
+    aboutme: "Fidèle-LVDP est une société spécialisée dans la location de voitures pour l'apprentissage de la conduite à Viry-Châtillon. Nous mettons à votre disposition des véhicules pratiques et bien équipés pour que vous puissiez vous concentrer sur votre formation à la conduite.",
 };
 
 const worktimeline = [
@@ -29,7 +29,7 @@ const worktimeline = [
     },
     {
         jobtitle: "Véhicules adaptés pour l'apprentissage",
-        where: "Paris",
+        where: "Viry-Châtillon",
         date: "2023",
     },
 ];
