@@ -10,15 +10,15 @@ const introdata = {
     title: "Bienvenue chez Fidèle-LVDP",
     animated: {
         first: "Apprenez à conduire avec nous",
-        second: "Réservez votre voiture pour votre apprentissage",
+        second: "Réservez votre voiture pour le permis",
     },
-    description: "Fidèle-LVDP, votre partenaire pour la location de voitures d'apprentissage à Viry-Châtillon dans le 91 (Essonnes). Nous mettons à votre disposition des véhicules sûrs et bien entretenus pour vous accompagner dans votre apprentissage de la conduite.",
+    description: "Fidèle-LVDP, votre partenaire pour la location de voitures d'apprentissage à Paris. Nous mettons à votre disposition des véhicules sûrs et bien entretenus pour vous accompagner dans votre apprentissage de la conduite.",
     your_img_url: "https://images.unsplash.com/photo-1591388156010-dd522151da35?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", 
 };
 
 const dataabout = {
     title: "À propos de Fidèle-LVDP",
-    aboutme: "Fidèle-LVDP est une société spécialisée dans la location de voitures double pédale pour l'apprentissage de la conduite à Viry-Châtillon. Nous mettons à votre disposition des véhicules pratiques et bien équipés pour que vous puissiez vous concentrer sur votre formation à la conduite.",
+    aboutme: "Fidèle-LVDP est une société spécialisée dans la location de voitures pour l'apprentissage de la conduite à Paris. Nous mettons à votre disposition des véhicules pratiques et bien équipés pour que vous puissiez vous concentrer sur votre formation à la conduite.",
 };
 
 const worktimeline = [
@@ -29,8 +29,8 @@ const worktimeline = [
     },
     {
         jobtitle: "Véhicules adaptés pour l'apprentissage",
-        where: "Viry-Châtillon",
-        date: "2024",
+        where: "Paris",
+        date: "2023",
     },
 ];
 
@@ -85,9 +85,9 @@ const contactConfig = {
     YOUR_EMAIL: "fidele.lvdp.vtc@gmail.com",
     YOUR_FONE: "+33689422760",
     description: "Pour toute question contactez-nous à l'adresse ci-dessus. Nous serons ravis de vous accompagner dans votre apprentissage.",
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_p7tio68",
+    YOUR_TEMPLATE_ID: "template_431sw7l",
+    YOUR_USER_ID: "ujgDF9r_TB6Tt1lS0",
 };
 
 const socialprofils = {
